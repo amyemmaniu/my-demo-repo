@@ -46,6 +46,12 @@ Use the dropdowns to compare the GitHub repository on your browser with the one 
 
 ![New pull request](images/new-pull-request.png)
 
+Each time a contributor makes a pull request, you'll need to ensure the changes they made are reflected on your computer. To do so, open GitHub Desktop and navigate to the repository you wish to update. Click on **Pull origin**, either from the top of the screen or from the the pop-up.
+
+![Pull origin](images/pull-origin.png)
+
+Now the files on your computer are up-to-date and you can continue working on them.
+
 ## Conclusion
 
 That's all you need to know to contribute to a project on GitHub.
