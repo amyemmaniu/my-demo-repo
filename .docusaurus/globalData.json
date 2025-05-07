@@ -1,0 +1,33 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/github-quickstart-guide/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/github-quickstart-guide/",
+          "mainDocId": "github-starter-guide",
+          "docs": [
+            {
+              "id": "github-starter-guide",
+              "path": "/github-quickstart-guide/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/github-quickstart-guide/",
+                "label": "github-starter-guide"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
