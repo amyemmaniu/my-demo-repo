@@ -44,7 +44,7 @@ const config = {
       ({
         docs: {
           path: 'docs',
-          routeBasePath: '/', // Serve the docs at the site's root; make sure the path is just the file without the /docs/ prefix
+          routeBasePath: '/', // Serve the docs at the site's root since the doc itself is the homepage
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: false,
