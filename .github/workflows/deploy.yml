@@ -23,7 +23,9 @@ jobs:
         run: npm install @docusaurus/core@latest --save
 
       - name: Build the site
-        run: npx docusaurus build
+        run: |
+          export PATH=./node_modules/.bin:$PATH
+          npx docusaurus build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
