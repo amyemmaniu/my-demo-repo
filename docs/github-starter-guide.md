@@ -24,7 +24,7 @@ Open the GitHub Desktop application and click **Current repository** > **Add** >
 
 In contrast, *forking* a repository creates an independent copy of the repository on your local machine, and any changes you make will not automatically be synced. Instead, you will have to create a pull request—a way to communicate your changes to the repository owner—and have it be reviewed and accepted in order to see your changes reflected in the original repository.
 
-When contributing to open-source documentation where you are not officially the owner or contributor, it is best to fork the repository.
+When contributing to open-source documentation where you are not officially the owner or contributor, it is best to fork the repository to prevent unwanted or erroneous changes from affecting the project.
 
 ![Clone repository in GitHub Desktop](/img/images/github-desktop.png)
 
@@ -56,7 +56,7 @@ Use the dropdowns to compare the GitHub repository on your browser with the one 
 
 ![New pull request](/img/images/new-pull-request.png)
 
-Each time a contributor makes a pull request, you'll need to ensure the changes they made are reflected on your computer. To do so, open GitHub Desktop and navigate to the repository you wish to update. Click on **Pull origin**, either from the top of the screen or from the the pop-up.
+Each time a contributor opens a pull request, you'll need to ensure the changes they made are reflected on your computer. To do so, open GitHub Desktop and navigate to the repository you wish to update. Click on **Pull origin**, either from the top of the screen or from the the pop-up on the right-hand side.
 
 ![Pull origin](/img/images/pull-origin.png)
 
