@@ -20,7 +20,7 @@ jobs:
         run: npm install
 
       - name: Install Docusaurus CLI
-        run: npm install @docusaurus/core@latest --save
+        run: npm install @docusaurus/core@latest --save-dev
 
       - name: Build the site
         run: |
