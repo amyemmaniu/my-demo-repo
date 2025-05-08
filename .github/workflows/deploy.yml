@@ -27,7 +27,7 @@ jobs:
 
       - name: Build the site
         run: |
-          export PATH=./node_modules/.bin:$PATH
+          export PATH=$PWD/node_modules/.bin:$PATH
           npx docusaurus build
 
       - name: Deploy to GitHub Pages
