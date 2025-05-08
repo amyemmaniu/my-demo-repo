@@ -6,11 +6,11 @@ slug: /
 
 GitHub is a useful tool for collaborating on code and documentation. It streamlines version control and keeps files accessible for your whole team.
 
-Using [GitHub Desktop](https://desktop.github.com/download/) is the most beginner-friendly way to contribute to a project on GitHub. Once you download the application, you'll be able to view repositories you're working with and track changes to your files.
+Using [GitHub Desktop](https://desktop.github.com/download/) is the most beginner-friendly way to contribute to a project on GitHub. Once you download and set up the application, you'll be able to view repositories you're working with and track changes to your files.
 
 ## Cloning a repository
 
-First, navigate to the repository of the [GitHub](https://github.com/) project to which you would like to contribute.
+Navigate to the repository of the [GitHub](https://github.com/) project to which you would like to contribute.
 
 ![Example GitHub repository](/img/images/github-repo.png)
 
@@ -20,9 +20,15 @@ Click on the **Code** drop-down and copy the HTTPS web URL by clicking on the **
 
 Open the GitHub Desktop application and click **Current repository** > **Add** > **Clone repository**.
 
+*Cloning* a repository copies the repository from GitHub onto your local machine. Changes made in the cloned, local repository will automatically sync with the online repository when pushed.
+
+In contrast, *forking* a repository creates an independent copy of the repository on your local machine, and any changes you make will not automatically be synced. Instead, you will have to create a pull request—a way to communicate your changes to the repository owner—and have it be reviewed and accepted in order to see your changes reflected in the original repository.
+
+When contributing to open-source documentation where you are not officially the owner or contributor, it is best to fork the repository.
+
 ![Clone repository in GitHub Desktop](/img/images/github-desktop.png)
 
-In the **Clone a repository** tab, click on the **URL** tab and paste in the repository's URL. Then, select the local path (the place where the repository will be stored on your machine) and click **Clone**.
+In the **Clone a repository** tab, click on the **URL** tab and paste in the repository's URL. Then, select the local path (the place where the repository will be stored on your local machine) and click **Clone**.
 
 ![Clone a repository using URL](/img/images/clone-in-github-desktop.png)
 
@@ -36,7 +42,7 @@ After you've made changes to the project, open GitHub Desktop and navigate to th
 
 Write a summary of your changes and an optional description. Use the checkboxes on the left to choose which files to commit. Then, click **Commit *X* files to main**.
 
-Note how the button at the top called **Fetch origin** is labeled **Push origin** once you commit. Press the button to send the changes from your computer to the GitHub server.
+Note how the button at the top originally called **Fetch origin** is labeled **Push origin** once you commit your changes. Press the button to send the changes from your computer to the GitHub server.
 
 ![Push origin on GitHub Desktop](/img/images/push-origin.png)
 
@@ -58,4 +64,4 @@ Now the files on your computer are up-to-date and you can continue working on th
 
 ## Conclusion
 
-That's all you need to know to contribute to a project on GitHub.
+That's all you need to know to contribute to an open-source project on GitHub.
