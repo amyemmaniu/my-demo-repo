@@ -6,7 +6,9 @@ slug: /
 
 GitHub is a useful tool for collaborating on code and documentation. It streamlines version control and keeps files accessible for your whole team.
 
-Using [GitHub Desktop](https://desktop.github.com/download/) is the most beginner-friendly way to contribute to a project on GitHub. Once you download and set up the application, you'll be able to view the repositories you're working with and track changes to your files.
+Using [GitHub Desktop](https://desktop.github.com/download/) is the most beginner-friendly way to contribute to a project on GitHub. Once you download and set up the application, you'll be able to view the repositories you're working with and track changes to your files. A repository is a space on GitHub where your project files and change history are stored.
+
+This guide will teach you how to contribute to an open-source project on GitHub using GitHub Desktop.
 
 ## Cloning a repository
 
@@ -22,9 +24,9 @@ Open the GitHub Desktop application and click **Current repository** > **Add** >
 
 *Cloning* a repository copies the repository from GitHub onto your computer. Changes made in the cloned repository will automatically sync with the online repository when pushed.
 
-In contrast, *forking* a repository creates an independent copy of the repository on your computer, and any changes you make will not automatically be synced when pushed. Instead, you will have to create a pull request—a way to communicate your changes to the repository owner—and have it be reviewed and accepted in order to see your changes reflected in the original repository.
+By contrast, *forking* a repository creates an independent copy of the repository on your computer, and any changes you make will not automatically be synced when pushed. Instead, you will have to create a pull request—a way to communicate your changes to the repository owner—and have it be reviewed and accepted in order to see your changes reflected in the original repository.
 
-When contributing to open-source documentation where you are not officially the owner or contributor, it is best to fork the repository to prevent unwanted or erroneous changes from affecting the project.
+If you clone a repository you do not have write access to and attempt to push a change to the repository, GitHub Desktop will create a fork for you.
 
 ![Clone repository in GitHub Desktop](/img/images/github-desktop.png)
 
@@ -42,6 +44,12 @@ After you've made changes to the project, open GitHub Desktop and navigate to th
 
 Write a summary of your changes and an optional description. Use the checkboxes on the left to choose which files to commit. Then, click **Commit *X* files to main**.
 
+:::note
+To avoid version conflicts, make sure you don't have other Git applications, such as github.com, open as you commit changes.
+
+If you need to undo a commit, navigate to the **History** tab of your repository, right-click the most recent commit, and click **Revert changes in commit**. Your modified files will revert to the state they were in at the most recent commit. Review the changes and commit them again.
+:::
+
 Note how the button at the top originally called **Fetch origin** is labeled **Push origin** once you commit your changes. Press this button to send the changes from your computer to the GitHub server.
 
 ![Push origin on GitHub Desktop](/img/images/push-origin.png)
@@ -52,7 +60,7 @@ Navigate to the repository on GitHub on your browser and click on the **Pull req
 
 ![Pull requests](/img/images/pull-request.png)
 
-Use the dropdowns to compare the GitHub repository on your browser with the one on your computer. You should see the summary and description (if you entered one) from when you committed your changes to the repository with GitHub Desktop. Click on **Create pull request** to submit your changes for review by the owner of the repository.
+Use the dropdowns to compare the GitHub repository on your browser with the one on your computer. Click on **Create pull request** to submit your changes for review by the owner of the repository.
 
 ![New pull request](/img/images/new-pull-request.png)
 
