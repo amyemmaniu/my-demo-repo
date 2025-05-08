@@ -1,24 +1,33 @@
-<<<<<<< HEAD
-node_modules
-=======
-# Dependencies
-/node_modules
+# Node.js dependencies
+node_modules/
 
-# Production
-/build
+# Build output (should not be committed)
+build/
+.cache/
+.docusaurus/
 
-# Generated files
-.docusaurus
-.cache-loader
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Misc
+# OS-specific files
 .DS_Store
+Thumbs.db
+
+# Environment variables
+.env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
->>>>>>> parent of 6bf443d9 (Deploy website - based on b03d8fe27d1c2beb7b8c2e3369c884a09a397e8e)
+# Git-related files
+.gitignore
+
+# Editor & IDE settings
+.vscode/
+.idea/
+
+# Miscellaneous
+*.bak

@@ -28,11 +28,11 @@ When contributing to open-source documentation where you are not officially the 
 
 ![Clone repository in GitHub Desktop](/img/images/github-desktop.png)
 
-In the **Clone a repository** tab, click on the **URL** tab and paste in the repository's URL. Then, select the local path (the place where the repository will be stored on your local machine) and click **Clone**.
+In the **Clone a repository** tab, click on the **URL** tab and paste in the repository's URL. Then, select the local path (the place where the repository will be stored on your computer) and click **Clone**.
 
 ![Clone a repository using URL](/img/images/clone-in-github-desktop.png)
 
-Now, you have a copy of the project on your local machine and can make contributions.
+Now, you have a copy of the project on your computer and can make contributions.
 
 ## Contributing to a project
 
