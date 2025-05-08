@@ -20,9 +20,9 @@ Click on the **Code** drop-down and copy the HTTPS web URL by clicking on the **
 
 Open the GitHub Desktop application and click **Current repository** > **Add** > **Clone repository**.
 
-*Cloning* a repository copies the repository from GitHub onto your computer. Changes made in the cloned, local repository will automatically sync with the online repository when pushed.
+*Cloning* a repository copies the repository from GitHub onto your computer. Changes made in the cloned repository will automatically sync with the online repository when pushed.
 
-In contrast, *forking* a repository creates an independent copy of the repository on your local machine, and any changes you make will not automatically be synced. Instead, you will have to create a pull request—a way to communicate your changes to the repository owner—and have it be reviewed and accepted in order to see your changes reflected in the original repository.
+In contrast, *forking* a repository creates an independent copy of the repository on your computer, and any changes you make will not automatically be synced when pushed. Instead, you will have to create a pull request—a way to communicate your changes to the repository owner—and have it be reviewed and accepted in order to see your changes reflected in the original repository.
 
 When contributing to open-source documentation where you are not officially the owner or contributor, it is best to fork the repository to prevent unwanted or erroneous changes from affecting the project.
 
