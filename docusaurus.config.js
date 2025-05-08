@@ -24,7 +24,6 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'amyemmaniu', // Usually your GitHub org/user name.
   projectName: 'github-quickstart-guide', // Usually your repo name.
-  deploymentBranch: 'deployment', // The branch that GitHub uses to deploy your site.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',

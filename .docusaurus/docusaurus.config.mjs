@@ -11,7 +11,7 @@ export default {
   "baseUrl": "/github-quickstart-guide/",
   "organizationName": "amyemmaniu",
   "projectName": "github-quickstart-guide",
-  "deploymentBranch": "deployment",
+  "deploymentBranch": "gh-pages",
   "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",

@@ -6,7 +6,7 @@ slug: /
 
 GitHub is a useful tool for collaborating on code and documentation. It streamlines version control and keeps files accessible for your whole team.
 
-Using [GitHub Desktop](https://desktop.github.com/download/) is the most beginner-friendly way to contribute to a project on GitHub. Once you download and set up the application, you'll be able to view repositories you're working with and track changes to your files.
+Using [GitHub Desktop](https://desktop.github.com/download/) is the most beginner-friendly way to contribute to a project on GitHub. Once you download and set up the application, you'll be able to view the repositories you're working with and track changes to your files.
 
 ## Cloning a repository
 
@@ -20,7 +20,7 @@ Click on the **Code** drop-down and copy the HTTPS web URL by clicking on the **
 
 Open the GitHub Desktop application and click **Current repository** > **Add** > **Clone repository**.
 
-*Cloning* a repository copies the repository from GitHub onto your local machine. Changes made in the cloned, local repository will automatically sync with the online repository when pushed.
+*Cloning* a repository copies the repository from GitHub onto your computer. Changes made in the cloned, local repository will automatically sync with the online repository when pushed.
 
 In contrast, *forking* a repository creates an independent copy of the repository on your local machine, and any changes you make will not automatically be synced. Instead, you will have to create a pull request—a way to communicate your changes to the repository owner—and have it be reviewed and accepted in order to see your changes reflected in the original repository.
 
@@ -32,7 +32,7 @@ In the **Clone a repository** tab, click on the **URL** tab and paste in the rep
 
 ![Clone a repository using URL](/img/images/clone-in-github-desktop.png)
 
-Now, you have a copy of the project on your local machine and can make contributions!
+Now, you have a copy of the project on your local machine and can make contributions.
 
 ## Contributing to a project
 
@@ -42,7 +42,7 @@ After you've made changes to the project, open GitHub Desktop and navigate to th
 
 Write a summary of your changes and an optional description. Use the checkboxes on the left to choose which files to commit. Then, click **Commit *X* files to main**.
 
-Note how the button at the top originally called **Fetch origin** is labeled **Push origin** once you commit your changes. Press the button to send the changes from your computer to the GitHub server.
+Note how the button at the top originally called **Fetch origin** is labeled **Push origin** once you commit your changes. Press this button to send the changes from your computer to the GitHub server.
 
 ![Push origin on GitHub Desktop](/img/images/push-origin.png)
 
