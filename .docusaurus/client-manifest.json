@@ -1,0 +1,151 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "42": [
+      42
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "5e95c892": [
+      647
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "b6a8b927": [
+      954
+    ],
+    "d8523385": [
+      221
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "42": {
+      "js": [
+        {
+          "file": "assets/js/42.d2a8fd74.js",
+          "hash": "46b0de2c35584799",
+          "publicPath": "/github-quickstart-guide/assets/js/42.d2a8fd74.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.26fb7e04.js",
+          "hash": "1934a5ac3b111b54",
+          "publicPath": "/github-quickstart-guide/assets/js/a94703ab.26fb7e04.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.338a992c.js",
+          "hash": "86d164c06b3f5213",
+          "publicPath": "/github-quickstart-guide/assets/js/a7bd4aaa.338a992c.js"
+        }
+      ]
+    },
+    "221": {
+      "js": [
+        {
+          "file": "assets/js/d8523385.6eedef90.js",
+          "hash": "d1a0c18f6f60c388",
+          "publicPath": "/github-quickstart-guide/assets/js/d8523385.6eedef90.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.b0440d9b.js",
+          "hash": "e36c5794aa3b450b",
+          "publicPath": "/github-quickstart-guide/assets/js/runtime~main.b0440d9b.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.9614ab35.js",
+          "hash": "426ee256a702d7e5",
+          "publicPath": "/github-quickstart-guide/assets/js/17896441.9614ab35.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.5ca03bbc.js",
+          "hash": "ed01d2822d520e45",
+          "publicPath": "/github-quickstart-guide/assets/js/5e95c892.5ca03bbc.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.02b9fb3d.js",
+          "hash": "673eba10e04914c3",
+          "publicPath": "/github-quickstart-guide/assets/js/aba21aa0.02b9fb3d.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.e4e351a5.js",
+          "hash": "1801942a4bced1e3",
+          "publicPath": "/github-quickstart-guide/assets/js/main.e4e351a5.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.17275f4c.css",
+          "hash": "aab772d69a5dbe05",
+          "publicPath": "/github-quickstart-guide/assets/css/styles.17275f4c.css"
+        }
+      ]
+    },
+    "954": {
+      "js": [
+        {
+          "file": "assets/js/b6a8b927.bf65723b.js",
+          "hash": "735efddcf6fd1951",
+          "publicPath": "/github-quickstart-guide/assets/js/b6a8b927.bf65723b.js"
+        }
+      ]
+    }
+  }
+}
