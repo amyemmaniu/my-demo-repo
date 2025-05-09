@@ -64,7 +64,7 @@ Use the dropdowns to compare the GitHub repository on your browser with the one 
 
 ![New pull request](/img/images/new-pull-request.png)
 
-Each time a contributor opens a pull request, you'll need to ensure the changes they made are reflected on your computer. To do so, open GitHub Desktop and navigate to the repository you wish to update. Click on **Pull origin**, either from the top of the screen or from the the pop-up on the right-hand side.
+Each time a contributor opens a pull request, you'll need to ensure the changes they made are reflected on your computer. To do so, open GitHub Desktop and navigate to the repository you wish to update. Click on **Pull origin**.
 
 ![Pull origin](/img/images/pull-origin.png)
 
