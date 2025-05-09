@@ -3,7 +3,8 @@ name: Deploy Docusaurus to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - main # Deploy changes to main
+      - gh-pages # Added to deploy changes to gh-pages
   workflow_dispatch: # Allows manual triggering
 
 permissions:
