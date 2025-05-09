@@ -60,7 +60,7 @@ Navigate to the repository on GitHub on your browser and click on the **Pull req
 
 ![Pull requests](/img/images/pull-request.png)
 
-Use the dropdowns to compare the GitHub repository on your browser with the one on your computer. Click on **Create pull request** to submit your changes for review by the owner of the repository.
+Use the dropdowns to compare the GitHub repository on your browser with the one on your computer. Click on **Create pull request** to submit your changes for the owner of the repository to review.
 
 ![New pull request](/img/images/new-pull-request.png)
 
